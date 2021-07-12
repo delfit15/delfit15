@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delfit15
 - My name is Delfina Cavallaro
-- I'm an argentinian multimedia artist who is interested in learning about web development!
+- I'm an argentinian multimedia art student who is interested in learning about web development!
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT 
 
 <!---
