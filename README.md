@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @delfit15
 - 👩‍🦱 My name is Delfina Cavallaro
 - 🎓 I'm an argentinian multimedia art student 
-- 🎨 Learning about Web Development and Design 
+- 🎨 Learning about Web Development and UX/UI Design 
 
 
 
